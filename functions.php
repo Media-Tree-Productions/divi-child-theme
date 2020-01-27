@@ -12,4 +12,3 @@ function diviChildTheme() {
         wp_get_theme()->get('Version')
     );
 }
-
